@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1>Hi, I'm Marco! <br/><a href="https://github.com/MAmojica">Programmer</a> and Data Enthusiast</h1>
 
-<!--
-**MAmojica/MAmojica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Software and Data Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Google Sheets and Apps Script</b>
+  - [TickTocker](https://github.com/MAmojica/TickTocker)
+  - [Youtube TV Training Team - Attendance Web App](https://github.com/MAmojica/YTTV-AttendanceWebApp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Google Sheets and Looker Studio</b>
+  - [TVPO Dashboard](https://github.com/MAmojica/TVPO-dashboard)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+- facebook: https://www.facebook.com/nedyehsss/
+- instagram: https://www.instagram.com/marcomjcs/
+- phone number/viber: 09279834208
+
+
+
+
+
+
+
