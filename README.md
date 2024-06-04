@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Software and Data Projects:</h2>
 
-- <b>Google Sheets and Apps Script</b>
+- <b>Google Sheets and Web Development (Javascript, HTML, CSS)</b>
   - [TickTocker](https://github.com/MAmojica/TickTocker)
   - [Youtube TV Training Team - Attendance Web App](https://github.com/MAmojica/YTTV-AttendanceWebApp)
 
